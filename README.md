@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my repository. This is where I store my finished school and personal projects. Thanks for checking them out!
+Welcome to my Github account. This is where I store my finished school and personal projects. Thanks for checking them out!
 <!--
 **toantnguyen99/toantnguyen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
